@@ -1,0 +1,88 @@
+{
+  "pengguna": [
+    {
+      "id": "1",
+      "nama": "Naruto Uchiha",
+      "email": "naruto@gmail.com",
+      "jenis_kelamin": "pria",
+      "tanggal_lahir": "2005-10-20",
+      "alamat": {
+        "rt": "05",
+        "rw": "02",
+        "jalan": "Jl Cibinung",
+        "desa": "Konoha",
+        "kecamatan": "Bojong Sari"
+      }
+    },
+    {
+      "id": "2",
+      "nama": "Sakura Haruno",
+      "email": "sakura@gmail.com",
+      "jenis_kelamin": "wanita",
+      "tanggal_lahir": "2006-03-28",
+      "alamat": {
+        "rt": "03",
+        "rw": "01",
+        "jalan": "Jl Sasame",
+        "desa": "Konoha",
+        "kecamatan": "Bojong Sari"
+      }
+    },
+    {
+      "id": "3",
+      "nama": "Sasuke Uchiha",
+      "email": "sasuke@gmail.com",
+      "jenis_kelamin": "pria",
+      "tanggal_lahir": "2005-07-23",
+      "alamat": {
+        "rt": "07",
+        "rw": "03",
+        "jalan": "Jl Sharingan",
+        "desa": "Konoha",
+        "kecamatan": "Bojong Sari"
+      }
+    },
+    {
+      "id": "4",
+      "nama": "Hinata Hyuga",
+      "email": "hinata@gmail.com",
+      "jenis_kelamin": "wanita",
+      "tanggal_lahir": "2005-12-27",
+      "alamat": {
+        "rt": "02",
+        "rw": "04",
+        "jalan": "Jl Byakugan",
+        "desa": "Konoha",
+        "kecamatan": "Bojong Sari"
+      }
+    },
+    {
+      "id": "5",
+      "nama": "Kakashi Hatake",
+      "email": "kakashi@gmail.com",
+      "jenis_kelamin": "pria",
+      "tanggal_lahir": "1992-09-15",
+      "alamat": {
+        "rt": "01",
+        "rw": "05",
+        "jalan": "Jl Mangekyo",
+        "desa": "Konoha",
+        "kecamatan": "Bojong Sari"
+      }
+    },
+    {
+      "id": "6",
+      "nama": "Shikamaru Nara Ayeris",
+      "email": "shikamaru@gmail.com",
+      "jenis_kelamin": "pria",
+      "tanggal_lahir": "2006-09-22",
+      "alamat": {
+        "rt": "08",
+        "rw": "06",
+        "jalan": "Jl Nara",
+        "desa": "Konoha",
+        "kecamatan": "Bojong Sari"
+      }
+    }
+  ]
+}

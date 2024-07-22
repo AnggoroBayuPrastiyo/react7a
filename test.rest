@@ -1,0 +1,45 @@
+### GET ALL PENGGUNA
+GET http://localhost:3000/pengguna
+Content-Type: "application/json"
+
+### PENGGUNA By Id
+GET http://localhost:3000/pengguna/4
+Content-Type: "application/json"
+
+###CREATE PENGGUNA
+POST http://localhost:3000/pengguna
+Content-Type: "application/json"
+
+
+{
+  "nama": "Shikamaru Nara",
+  "email": "shikamaru@gmail.com",
+  "jenis_kelamin": "pria",
+  "tanggal_lahir": "2006-09-22",
+  "alamat": {
+    "rt": "08",
+    "rw": "06",
+    "jalan": "Jl Nara",
+    "desa": "Konoha",
+    "kecamatan": "Bojong Sari"
+  }
+}
+
+###EDIT PENGGUNA By Id Pengguna
+PUT http://localhost:3000/pengguna/6
+Content-Type: "application/json"
+
+{
+  "id": "6",
+  "nama": "Shikamaru Nara Ayeris",
+  "email": "shikamaru@gmail.com",
+  "jenis_kelamin": "pria",
+  "tanggal_lahir": "2006-09-22",
+  "alamat": {
+    "rt": "08",
+    "rw": "06",
+    "jalan": "Jl Nara",
+    "desa": "Konoha",
+    "kecamatan": "Bojong Sari"
+  }
+}
